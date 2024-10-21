@@ -2,7 +2,6 @@
 
 Hi! 
 
-[UPDATE] The APIs are out of date and I have not re-configured them yet. To see how the project ran **I highly recommend you watch the "market watch tutorial" video**. 
 
 Market Watch is a web application that serves as a advanced watchlist for the stock market. Once making an account, you can see expert recommended stocks, add any stock (international included) to your watchlist, and view technical graphs to monitor their performance over time.
 
